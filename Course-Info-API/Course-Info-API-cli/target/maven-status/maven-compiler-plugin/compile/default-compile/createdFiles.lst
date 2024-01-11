@@ -1,0 +1,4 @@
+org\courseAPI\cli\service\PluralsightCourse.class
+org\courseAPI\cli\CourseRetriever.class
+org\courseAPI\cli\service\CourseStorageService.class
+org\courseAPI\cli\service\CourseRetrievalService.class

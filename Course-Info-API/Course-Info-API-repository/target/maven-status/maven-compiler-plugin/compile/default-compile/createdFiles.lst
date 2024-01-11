@@ -1,0 +1,4 @@
+org\courseAPI\repository\CourseReopsitory.class
+org\courseAPI\repository\RepositoryException.class
+org\courseAPI\repository\CourseJdbcRepository.class
+org\courseAPI\domain\Course.class
